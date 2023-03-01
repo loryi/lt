@@ -5,4 +5,9 @@ package com.loryi.lt.utils;
  *
  */
 public class SaltUtils {
+
+    public static String createSalt(){
+        return "";
+    }
+
 }
